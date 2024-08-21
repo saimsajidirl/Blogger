@@ -1,6 +1,6 @@
+# Blogger
 ![image](https://github.com/user-attachments/assets/211d8596-7ecd-4dba-bef9-9064ae66f45e)
 
-# Blogger
 Developed a fully functional blog using Django framework.Implemented features such as user authentication, posting, editing, and deleting blog entries
 
 Core Functionality are:
